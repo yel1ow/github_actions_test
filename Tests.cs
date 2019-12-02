@@ -18,7 +18,7 @@ namespace WebApplication1
         [Test]
         public void Test2()
         {
-            Assert.That(5, Is.EqualTo(5));
+            Assert.That(5, Is.EqualTo(6));
         }
     }
 }
